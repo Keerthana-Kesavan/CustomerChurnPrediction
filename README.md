@@ -47,7 +47,7 @@ Our data exploration process included comprehensive analysis of customer demogra
 The ability to predict customer churn before it happens offers significant advantages to businesses. By identifying high-risk customers who are likely to churn, companies can take proactive actions to retain them. These actions may include:
 
 Customer Success Initiatives: Reach out to high-risk customers to provide support and identify unmet needs.\
-Service Quality Assessment: Calculate the churn rate to gauge how well the business is retaining customers, which reflects the quality and usefulness of its services.\
+Service Quality Assessment: Calculate the churn rate to gauge how well the business is retaining customers, which reflects the quality and usefulness of its services.
 
 This project exemplifies the power of data science and machine learning in helping businesses make informed decisions to enhance customer retention and overall performance. Predicting customer churn is not only a means to reduce revenue loss but also a way to improve customer satisfaction and loyalty.
 
